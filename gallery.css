@@ -5,6 +5,7 @@ body{
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
+    font-family: "QuickSand", sans-serif;
 }
 
 #Navbar{
@@ -31,4 +32,16 @@ a{
 
 .link{
     color: #A55166;
+}
+
+.announcement{
+    align-items: center;
+    color: #A55166;
+    font-family: "QuickSand", sans-serif;
+}
+
+@media (max-width: 600px){
+    body{
+        font-size: 0.6rem;
+    }
 }
