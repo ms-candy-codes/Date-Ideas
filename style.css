@@ -67,12 +67,18 @@ a{
     }
 
     .form-divider{
-    margin: 2rem;
+    margin-top: 1.3rem;
     align-items: center;
+    }
+
+    .result-div{
+        display: flex;
+        justify-content: center;
     }
 
     #result-holder{
         font-size: 0.7rem;
+        width: 50%;
     }
 
     #letter-picker{
