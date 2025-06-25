@@ -2,6 +2,7 @@
 
 body{
     background-color: #F7DAE7;
+    font-family: "QuickSand", sans-serif;
 }
 
 #Navbar{
@@ -46,11 +47,13 @@ a{
 
 #letter-picker{
     height: 1.3rem;
+    font-family: "QuickSand", sans-serif;
 }
 
 .submit-button{
     background-color: #D38C9D;
     border: solid #D38C9D;
     color: #F7DAE7;
+    font-family: "QuickSand", sans-serif;
     font-size: 1rem;
 }

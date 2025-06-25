@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&family=Quicksand:wght@300..700&family=Sarina&display=swap');
+
+body{
+    background-color: #F7DAE7;
+}
+
+#Navbar{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+#nav-divider{
+    display: flex;
+    gap: 2rem;
+}
+
+.logo{
+    font-family: "Sarina";
+    color: #A55166;
+}
+
+a{
+    text-decoration: none;
+}
+
+.link{
+    color: #A55166;
+}
