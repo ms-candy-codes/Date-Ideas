@@ -22,7 +22,7 @@ function getRandomDate(letter) {
   if (!ideas) return `No ideas for letter ${letter}`;
 
   const index = Math.floor(Math.random() * ideas.length);
-  return `${index + 1}: ${ideas[index]}`; // Optional: include index in human format
+  return `${ideas[index]}`;
 }
 
 document.getElementById("myForm").addEventListener("submit", function (e) {

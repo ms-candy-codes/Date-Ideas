@@ -59,7 +59,7 @@ export const dateIdeas = {
     "Haiku Challenge, Write silly or romantic haikus to each other.",
     "Hometown Tour, Show each other your childhood spots via video or photos.",
     "Horror Movie Night, Watch a scary movie together while texting or calling.",
-    "Harry Potter Sortingm Take quizzes together and compare houses.",
+    "Harry Potter Sorting, Take quizzes together and compare houses.",
     "How-To Night, Teach each other a random skill live (folding, sketching etc.).",
     "Hidden Talent Show, Perform a talent for each other on video."
     ],
@@ -124,7 +124,7 @@ export const dateIdeas = {
     "Q&A Date, Each come with 10 fun/serious questions to ask each other.",
     "Quote Swap, Share quotes that describe how you feel about each other.",
     "Quickfire Game, Set timer and answer rapid-fire questions for 2 minutes.",
-    "Quiet Time Togetherm Sit silently on video for 10 minutes just being `together`."
+    "Quiet Time Together, Sit silently on video for 10 minutes just being `together`."
     ],
     R: [
     "Recipe Swap, Choose your favourite recipe and cook each other's pick.",
