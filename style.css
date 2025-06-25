@@ -1,0 +1,49 @@
+body{
+    background-color: #F7DAE7;
+}
+
+#Navbar{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+#nav-divider{
+    display: flex;
+    gap: 2rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.link{
+    color: #A55166;
+}
+
+#myForm{
+    text-align: center;
+}
+
+#result-holder{
+    color: #A55166;
+    display: block;
+}
+
+.form-divider{
+    margin: 5rem;
+    align-items: center;
+}
+
+#letter-picker{
+    height: 1.3rem;
+}
+
+.submit-button{
+    background-color: #D38C9D;
+    border: solid #D38C9D;
+    color: #F7DAE7;
+    font-size: 1rem;
+}
