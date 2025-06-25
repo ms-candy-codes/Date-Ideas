@@ -17,6 +17,11 @@ body{
     gap: 2rem;
 }
 
+.logo{
+    font-family: "Sarina";
+    color: #A55166;
+}
+
 a{
     text-decoration: none;
 }
