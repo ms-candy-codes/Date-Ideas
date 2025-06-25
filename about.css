@@ -47,3 +47,9 @@ p{
     text-wrap: wrap;
     width: 50%;
 }
+
+@media (max-width:600px){
+    body{
+        font-size: 0.6rem;
+    }
+}
