@@ -3,6 +3,9 @@
 body{
     background-color: #F7DAE7;
     font-family: "QuickSand", sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 #Navbar{
