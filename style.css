@@ -66,6 +66,10 @@ a{
         font-size: 0.6rem;
     }
 
+    #myForm{
+        margin-top: 20%;
+    }
+
     .form-divider{
     margin-top: 1.3rem;
     align-items: center;
